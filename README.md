@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifty54
 - 👀 I’m interested in blockchain development involving effort that can help in doing humanitarian deeds.
-- 🌱 I’m currently learning Python, JavaScript.
+- 🌱 I’m currently learning Machine Learning and React.js
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 reach me at ifty.alamin54@gmail.com
 

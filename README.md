@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @ifty54
-- 🌱 I’m currently learning Machine Learning and React.js
-- 💞️ Looking to collaborate on Python projects.
+- Hi, Myself @ifty54
+- A Machine Learning Enthusiast
+- **On Progress**: 
+  _Skin Disease Detection using CNN_ (Deep Learning Project)
+  _Dynamic Website Development_ (React.JS Project)
+- Looking to collaborate on Python projects
 - 📫 reach me at ifty.alamin54@gmail.com
 
 ## 🔗 Links

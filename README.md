@@ -46,10 +46,24 @@ With expertise in `Search Engine Optimization`, I have done several Client proje
 
 ### Socials
 
-[![Untitled design (3)](https://github.com/ifty54/ifty54/assets/31790027/0b15f65d-27b7-4187-b6ec-c81e1b7e52c2)](https://www.linkedin.com/in/fty54)
-[![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/e119ef9d-2b3c-47c1-aea4-ad24a43c713a)](https://www.researchgate.net/profile/Al-Amin-Ifty)
-
-[![Twitter](https://github.com/ifty54/ifty54/assets/31790027/323353a7-0162-463a-9b3b-bc84eae79853)](https://twitter.com/ifty54)
+<a href="https://www.linkedin.com/in/ifty54/">
+  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" alt="LinkedIn" width="50" height="50">
+</a>
+<a href="https://www.researchgate.net/profile/Al-Amin-Ifty/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="ResearchGate" width="50" height="50">
+</a>
+<a href="https://medium.com/@ifty54">
+  <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="Medium" width="50" height="50">
+</a>
+<a href="https://www.facebook.com/ifty.bd54">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png" alt="Facebook" width="50" height="50">
+</a>
+<a href="https://www.threads.net/@iift_ee">
+  <img src="https://seeklogo.com/images/T/threads-by-instagram-logo-20008C5295-seeklogo.com.png?v=638243447960000000" alt="Threads" width="50" height="50">
+</a>
+<a href="https://www.youtube.com/channel/UCTjmyVg8VUgo7cUgzRHO9Kw">
+  <img src="https://img.freepik.com/free-icon/youtube_318-183441.jpg" alt="YouTube" width="50" height="50">
+</a>
 
 
 

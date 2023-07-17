@@ -36,7 +36,11 @@ Looking for `collaboration on Python projects`
 
 **Previously Done**
 
-I have worked in Technical Content Developer role at `Rank Wizards LLC`. With expertise in `Search Engine Optimization`, I have done several Client projects and Freelancing at Marketplaces including `Fiverr`, `Upwork`. But talking about Artificial Intelligence, it always has been on my radar to go with!
+I have worked in Technical Content Developer role at `Rank Wizards LLC`. 
+
+![image](https://github.com/ifty54/ifty54/assets/31790027/157fe56a-e79e-456d-8139-8e03d254297c)
+
+With expertise in `Search Engine Optimization`, I have done several Client projects and Freelancing at Marketplaces including `Fiverr`, `Upwork`. But talking about Artificial Intelligence, it always has been on my radar to go with!
 
 📫 reach me at ifty.alamin54@gmail.com
 

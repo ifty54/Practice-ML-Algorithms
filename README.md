@@ -26,17 +26,26 @@ https://www.researchgate.net/publication/359397706_A_Characterization_of_Flat_Me
 
 Looking for `collaboration on Python projects`
 
-**Initiatives**
+## Initiatives
+
 ![Untitled design (1)](https://github.com/ifty54/ifty54/assets/31790027/6cda59dc-66ac-44bf-800a-b4144c9848fa)
+
 ### GigBig Analytics `Since 2023`
+
 ![Untitled design (1)](https://github.com/ifty54/ifty54/assets/31790027/58aa0dd6-a596-4d57-8cde-0b9fd59eb805)
 
 ### Project Six Four `Since 2019`
+
 ![Untitled design (2)-min](https://github.com/ifty54/ifty54/assets/31790027/fbe5510d-d48e-4e45-ad95-5047970973aa)
 
-**Previously Done**
+## My Biweekly LinkedIn Newsletter
 
-I have worked in Technical Content Developer role at `Rank Wizards LLC`. 
+![Screenshot (65)](https://github.com/ifty54/ifty54/assets/31790027/4f1115e7-81ee-4879-86d2-fea391f8ae77)
+
+
+### Previously Done
+
+I have worked in Technical Content Developer role at `Rank Wizards LLC`.
 
 ![image](https://github.com/ifty54/ifty54/assets/31790027/157fe56a-e79e-456d-8139-8e03d254297c)
 

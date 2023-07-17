@@ -29,7 +29,10 @@ Looking for `collaboration on Python projects`
 **Initiatives**
 ![Untitled design (1)](https://github.com/ifty54/ifty54/assets/31790027/6cda59dc-66ac-44bf-800a-b4144c9848fa)
 ### GigBig Analytics `Since 2023`
+![Untitled design (1)](https://github.com/ifty54/ifty54/assets/31790027/58aa0dd6-a596-4d57-8cde-0b9fd59eb805)
+
 ### Project Six Four `Since 2019`
+![Untitled design (2)-min](https://github.com/ifty54/ifty54/assets/31790027/fbe5510d-d48e-4e45-ad95-5047970973aa)
 
 **Previously Done**
 

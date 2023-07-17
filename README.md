@@ -46,6 +46,11 @@ With expertise in `Search Engine Optimization`, I have done several Client proje
 
 ### Socials
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fty54)
+[![Untitled design (3)](https://github.com/ifty54/ifty54/assets/31790027/0b15f65d-27b7-4187-b6ec-c81e1b7e52c2)](https://www.linkedin.com/in/fty54)
+[![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/e119ef9d-2b3c-47c1-aea4-ad24a43c713a)](https://www.researchgate.net/profile/Al-Amin-Ifty)
 
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ifty54)
+[![Twitter](https://github.com/ifty54/ifty54/assets/31790027/323353a7-0162-463a-9b3b-bc84eae79853)](https://twitter.com/ifty54)
+
+
+
+

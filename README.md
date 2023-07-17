@@ -6,7 +6,7 @@
 - 👉 Generative Adversarial Network.
 - **Project**
 - 👉 _Skin Disease Detection using CNN_ (Deep Learning Project) 
-- https://github.com/ML-Tigers/CNN-based-Skin-Cancer-Disease-Detection-Using-Ham10000-Dataset
+- https://github.com/GigBig-Analytics/CNN-based-Skin-Cancer-Disease-Detection-Using-Ham10000-Dataset
 - 👉 _A Characterization of Flat Meet Semilattices_
 - https://www.researchgate.net/publication/359397706_A_Characterization_of_Flat_Meet_Semilattices 
 - **On Progress**: 

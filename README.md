@@ -51,7 +51,7 @@ I have worked in Technical Content Developer role at `Rank Wizards LLC`.
 
 With expertise in `Search Engine Optimization`, I have done several Client projects and Freelancing at Marketplaces including `Fiverr`, `Upwork`. But talking about Artificial Intelligence, it always has been on my radar to go with!
 
-📫 reach me at ifty.alamin54@gmail.com
+📫 reach me at ifty.alamin54@gmail.com or alamin58@student.sust.edu
 
 ### Socials
 

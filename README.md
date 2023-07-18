@@ -1,4 +1,4 @@
-![Untitled design (1)](https://github.com/ifty54/ifty54/assets/31790027/69bb02e9-0a3a-427b-b977-545ca6d1daff)# Hi, Myself `Al-Amin Ifty`,
+# Hi, Myself `Al-Amin Ifty`,
 
 A Machine Learning & Deep Learning Enthusiast, PhD Aspirant!
  

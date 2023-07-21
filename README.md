@@ -1,4 +1,4 @@
-# Hi, Myself `Al-Amin Ifty`,
+# Hi, Myself `Al-Amin Ifty`!
 
 A Machine Learning & Deep Learning Enthusiast, PhD Aspirant!
  

@@ -1,6 +1,6 @@
-# Hi, Myself `Al-Amin Ifty`!
+# Hi, Myself `Al-Amin Ifty`! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="LinkedIn" width="50" height="50">
 
-A Machine Learning & Deep Learning Enthusiast, PhD Aspirant!
+I'm Machine Learning & Deep Learning Enthusiast, PhD Aspirant!
  
 **Research Interest**
 

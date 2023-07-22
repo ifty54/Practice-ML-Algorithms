@@ -33,7 +33,7 @@ Looking for `collaboration on Python projects`
 
 ## My Biweekly LinkedIn Newsletter
 
-![Untitled design](https://github.com/ifty54/ifty54/assets/31790027/2ab9db44-60c8-4e20-80e0-16f18e739570)
+![Untitled design (2)](https://github.com/ifty54/ifty54/assets/31790027/01fced38-e8c9-4458-9612-351809c723bf)
 
 ### Previously Done
 
